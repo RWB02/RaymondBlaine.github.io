@@ -38,4 +38,3 @@ print(Hello world!)
 5. If you put your chosen CSS in the same directory as your .adoc file you can run this code to generate you page `asciidoctor -a linkcss -a stylesheet=boot-cyborg.css  HelloWorld.adoc `. I don't like how this CSS renders the admonition, but that can be played with later. 
 6. Now go work on creating somehting more useful! I will too :).
 
-![_config.yml]
