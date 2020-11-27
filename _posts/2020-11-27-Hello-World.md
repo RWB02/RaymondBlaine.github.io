@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+date: 2020-11-27 
+tags: [asciidoctor]
 ---
 
 I've chosen to create a blog on things I'm working on. My Hello World blog post will be about my journey to creating a Hello World page using [asciidoctor](https://github.com/asciidoctor/asciidoctor). I'm doing this on my Mac using VSCode, so the instructions will work for that primarily, but should be easily extended to other platforms. This blog is primarily to help me take notes and organize my thoughts. There may be others out there that find it useful. 
